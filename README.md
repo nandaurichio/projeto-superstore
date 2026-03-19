@@ -32,9 +32,13 @@ Analisar dados de vendas para identificar os principais fatores que impactam a l
 ### Visão Geral
 <img width="1389" height="989" alt="dashboad" src="https://github.com/user-attachments/assets/d091f949-af1f-44ef-b1e4-fb8875c1be1c" />
 
+*Figura 1: Evolução das vendas, relação entre receita e lucro e principais drivers de performance.*
+
 
 ### Impacto dos Descontos
 <img width="555" height="461" alt="impacto do desconto" src="https://github.com/user-attachments/assets/1063c2da-54b6-43fe-a0b5-cda2e673bffd" />
+
+*Figura 2: Relação entre nível de desconto e lucro médio, evidenciando o impacto negativo de descontos elevados na margem.*
 
 
 ---
