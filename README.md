@@ -39,6 +39,13 @@ Analisar dados de vendas para identificar os principais fatores que impactam a l
 
 ---
 
+##  Conclusão
+
+A análise mostrou que o crescimento de vendas não está diretamente relacionado ao aumento de lucro. 
+Descontos elevados impactam negativamente a margem, e algumas categorias apresentam desempenho inferior.
+
+Esses resultados indicam a necessidade de revisão da estratégia de precificação e foco em produtos mais rentáveis.
+
 ##  Como Executar
 
 ```bash
