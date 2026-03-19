@@ -8,6 +8,7 @@ Analisar dados de vendas para identificar os principais fatores que impactam a l
 ##  Ferramentas
 - Python (Pandas)
 - Matplotlib
+- Jupyter Notebook
 - VS Code
 
 ---
