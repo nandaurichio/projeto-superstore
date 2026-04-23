@@ -4,11 +4,6 @@ Este dataset foi gerado de forma simulada com o objetivo de reproduzir um cenár
 
 A estrutura foi inspirada em datasets clássicos de análise de vendas (como o Superstore), sendo adaptada para fins de estudo, prática analítica e experimentação.
 
-##  Suposições
-
-* Relação simplificada entre desconto e lucro
-* Comportamento de compra simulado
-* Distribuição de vendas por região e categoria
 
 ##  Limitações
 
