@@ -1,3 +1,7 @@
+<img width="1774" height="887" alt="Superstore2" src="https://github.com/user-attachments/assets/9cbf7774-07ef-4a4f-abb6-d2312f107748" />
+
+
+
 #  Análise de Vendas e Lucratividade
 
 ##  Objetivo
