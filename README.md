@@ -1,7 +1,8 @@
 <img width="1774" height="887" alt="Superstore2" src="https://github.com/user-attachments/assets/9cbf7774-07ef-4a4f-abb6-d2312f107748" />
+
 # Análise de Vendas e Lucratividade
 
-👉 **[Ver o notebook com a análise completa](notebook/analise.ipynb)**
+ **[Ver o notebook com a análise completa](notebook/analise.ipynb)**
 
 ## Objetivo
 Analisar dados de vendas para identificar os principais fatores que impactam a lucratividade, com foco no efeito dos descontos, na comparação entre categorias e na evolução mensal das vendas.
@@ -76,7 +77,9 @@ Neste dataset simulado, o desconto é o fator que mais explica o lucro: a correl
    notebook/analise.ipynb
    ```
 
-3. Execute as células de cima para baixo. O painel é salvo em `dashboard/painel_lucratividade.png`.
+3. Execute as células de cima para baixo. 
+
+Obs: O painel é salvo em `dashboard/painel_lucratividade.png`.
 
 ---
 

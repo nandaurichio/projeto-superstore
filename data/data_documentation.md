@@ -10,6 +10,8 @@ A estrutura foi inspirada em datasets clássicos de análise de vendas (como o S
 * Os dados não representam uma empresa real
 * Algumas relações podem não refletir a complexidade do mundo real
 * Não há influência de fatores externos (como sazonalidade real ou concorrência)
+* As subcategorias não pertencem a uma categoria específica (ex.: "Binders" aparece em Furniture), efeito da geração aleatória dos dados
+* Cobre um único ano (2022), então não permite medir crescimento nem sazonalidade
 
 ##  Objetivo
 
